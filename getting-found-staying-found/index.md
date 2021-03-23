@@ -1,7 +1,7 @@
 ---
 isBookIndex: true
 ---
-# Getting Found, Staying Found, Increasing Impact: Enhancing Readership and Preserving Content for OJS Journals, Second Edition.
+# Getting Found, Staying Found, Increasing Impact: Enhancing Readership and Preserving Content for OJS Journals, Second Edition.....
 
 * [English](en/)
 
